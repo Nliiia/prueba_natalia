@@ -10,7 +10,7 @@
 
 [Enlace a Educantabria](https://www.educantabria.es/)  
 [Enlace a archivo MD](ejercicio1.md)  
-![Foto](imagenes/1.png)  
+![Foto](imagenes/1.1.png)  
 
 |Encabezado1|Encabezado2|Encabezado3|
 |---|---|---|
